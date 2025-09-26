@@ -1,4 +1,4 @@
-# Repositorio de Topicos Especuiales
+# Repositorio de Topicos Especiales
 
 Lenguaje de programación para manejo de grandes volumenes de datos
 
